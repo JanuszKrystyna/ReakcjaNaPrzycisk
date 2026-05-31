@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60be4ca-3949-4561-a566-59ad913ecbd1" name="Changes" comment="" />
+    <list default="true" id="e60be4ca-3949-4561-a566-59ad913ecbd1" name="Changes" comment="001 - BASE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReakcjaNaPrzycisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReakcjaNaPrzycisk.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ReakcjaNaPrzycisk.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -36,6 +43,19 @@
       <option name="presentableId" value="Default" />
       <updated>1780226070225</updated>
     </task>
+    <task id="LOCAL-00001" summary="001 - BASE">
+      <option name="closed" value="true" />
+      <created>1780226778587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780226778587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="001 - BASE" />
+    <option name="LAST_COMMIT_MESSAGE" value="001 - BASE" />
   </component>
 </project>
